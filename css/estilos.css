@@ -49,3 +49,13 @@ font-size:20px;
 background: white;
 padding: 1em;
 }
+
+#footer {
+    text-align:center;
+    color: goldenrod
+}
+
+#footer h1 {
+    font-size:25px;
+    font-weight: bold;
+}
